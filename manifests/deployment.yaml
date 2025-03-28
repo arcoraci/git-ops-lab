@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gitops-lab
-        image: garretlive/gitops-lab:v1
+        image: garretlive/gitops-lab:v2
         ports:
         - containerPort: 8080
 
